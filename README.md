@@ -13,13 +13,13 @@ The program generates a colorful geometric pattern that looks like a spiral star
 
 🛠 Requirements
 
-*Before running the project, make sure Python is installed.
+#Before running the project, make sure Python is installed.
 
 Required library:
 
-*turtle (comes built-in with Python)
+#turtle (comes built-in with Python)
 
-*You do not need to install anything extra.
+#You do not need to install anything extra.
 
 💡 What You Will Learn
 
