@@ -19,7 +19,7 @@ The program generates a colorful geometric pattern that looks like a spiral star
 
 - You do not need to install anything extra.
 
-# 💡 What You Will Learn
+### 💡 What You Will Learn
 
 - This small project helps you understand:
 
@@ -51,6 +51,6 @@ The program generates a colorful geometric pattern that looks like a spiral star
 
 ### 👨‍💻 Author
 
-Abdur Rahman
-Computer & Communication Engineering Student
-Interested in technology, programming, and creative coding.
+- Abdur Rahman
+- Computer & Communication Engineering Student
+- Interested in technology, programming, and creative coding.
